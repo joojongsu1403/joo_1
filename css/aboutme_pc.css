@@ -7,6 +7,7 @@
         left: 0;
         display: none;
         overflow: scroll;
+        -ms-overflow-style: -ms-autohiding-scrollbar;
     }
     #page_5::-webkit-scrollbar{
         display: none;
